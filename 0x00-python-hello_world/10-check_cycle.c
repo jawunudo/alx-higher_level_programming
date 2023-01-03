@@ -1,4 +1,4 @@
-nclude "lists.h"
+#include "lists.h"
 /**
 * check_cycle - function that checks if list has cycle
 * @list: pointer to list to check
