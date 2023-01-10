@@ -1,4 +1,4 @@
-#include "Python.h"
+#include "lists.h"
 
 /**
  * print_python_list_info - print info about a python list object
